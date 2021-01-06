@@ -1,1 +1,1 @@
-web: python3 rio.py
+web: python3 main.py
