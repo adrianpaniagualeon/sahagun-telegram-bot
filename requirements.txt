@@ -1,7 +1,7 @@
 requests==2.20.0
 logging3==0.0.2
 python-telegram-bot==12.7
-urllib3==1.25.10
+urllib3==1.26.5
 beautifulsoup4==4.9.1
 pdf2image==1.14.0
 feedparser==6.0.1
